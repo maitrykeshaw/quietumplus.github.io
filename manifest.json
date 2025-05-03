@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Quietum Plus™ [Official Website] Get $300 OFF + Free Shipping!",
+  "short_name":"Quietum Plus™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Quietum Plus is a dietary supplement that is good for your ear health. Moreover, this supplement focuses on supporting having a healthy hearing.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
